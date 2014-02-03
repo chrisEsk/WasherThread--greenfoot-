@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=pCantRopa\ plav\ pWorld
+comment0.target=Temporizador(int,\ Lavadora,\ MundoLavadora)
+comment1.params=pTiempo
+comment1.target=void\ setTiempo(int)
+comment2.params=pTiempoRes
+comment2.target=void\ setTiempoRes(int)
+comment3.params=pLav
+comment3.target=void\ setLav(Lavadora)
+comment4.params=pWorld
+comment4.target=void\ setMundo(MundoLavadora)
+comment5.params=
+comment5.target=MundoLavadora\ getMundo()
+comment6.params=
+comment6.target=int\ getTiempo()
+comment7.params=
+comment7.target=Lavadora\ getLav()
+comment8.params=
+comment8.target=int\ getTiempoRes()
+comment9.params=
+comment9.target=void\ run()
+numComments=10

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=int\ getCantRopa()
+comment2.params=pCant
+comment2.target=void\ setCantRopa(int)
+comment3.params=
+comment3.target=void\ cambiarDireccion()
+comment4.params=
+comment4.target=void\ cambiarDireccionA()
+comment5.params=
+comment5.target=void\ recogerRopaSucia()
+numComments=6
